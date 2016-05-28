@@ -1,3 +1,4 @@
 #PyGame  
 
-This repository contain some of project developed using pyGame  
+This repository contain some of project developed using pygame (python)
+contact: kartikayemail@gmail.com
